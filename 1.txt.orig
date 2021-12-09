@@ -1,4 +1,6 @@
 hello this is new file 1.txt
+<<<<<<< HEAD
 adding one more line in f1
+=======
 adding one more line in f2
-new barnch f3
+>>>>>>> f2
