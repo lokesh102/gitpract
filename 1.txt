@@ -1,2 +1,4 @@
 hello this is new file 1.txt
 adding one more line in f1
+adding one more line in f2
+f3 
